@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --clean --onefile --windowed --noupx --name QuickPhrase --icon QP.ico --add-data "QP.ico;ico" quickphrase.py
